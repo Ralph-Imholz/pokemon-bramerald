@@ -1,0 +1,217 @@
+=== [gen9nationaldexag] Dennis (Gym 1) ===
+
+Rockruff  
+Ability: Keen Eye  
+Tera Type: Rock  
+
+Growlithe-Hisui  
+Ability: Intimidate  
+Tera Type: Fire  
+
+Larvitar  
+Ability: Guts  
+Tera Type: Rock  
+
+
+=== [gen9nationaldexag] Joos (Gym 2) ===
+
+Zorua  
+Ability: Illusion  
+Tera Type: Dark  
+
+Torracat  
+Ability: Blaze  
+Tera Type: Fire  
+
+Frogadier  
+Ability: Torrent  
+Tera Type: Water  
+
+
+=== [gen9nationaldexag] Cora (Gym 3) (double battle) ===
+
+Jigglypuff  
+Ability: Cute Charm  
+Tera Type: Normal  
+
+Vulpix-Alola  
+Ability: Snow Cloak  
+Tera Type: Ice  
+
+Dachsbun  
+Ability: Well-Baked Body  
+Tera Type: Fairy  
+
+Sylveon  
+Ability: Cute Charm  
+Tera Type: Fairy  
+
+
+=== [gen9nationaldexag] Vincent (Gym 4) ===
+
+
+=== [gen9nationaldexag] Bob (Gym 5) ===
+
+
+=== [gen9nationaldexag] Pim (Gym 6) ===
+
+
+=== [gen9nationaldexag] Vinnie (Gym 7) ===
+
+
+=== [gen9nationaldexag] Puck (Gym 8) ===
+
+Tentacruel  
+Ability: Clear Body  
+Tera Type: Water  
+
+Lanturn  
+Ability: Volt Absorb  
+Tera Type: Water  
+
+Lapras  
+Ability: Water Absorb  
+Tera Type: Water  
+
+Milotic  
+Ability: Marvel Scale  
+Tera Type: Water  
+
+Suicune  
+Ability: Pressure  
+Tera Type: Water  
+
+
+=== [gen9nationaldexag] Dennis (E1) ===
+
+Tyranitar  
+Ability: Sand Stream  
+Tera Type: Rock  
+
+Arcanine  
+Ability: Intimidate  
+Tera Type: Fire  
+
+Slowking  
+Ability: Oblivious  
+Tera Type: Water  
+
+Charizard  
+Ability: Blaze  
+Tera Type: Fire  
+
+Milotic  
+Ability: Marvel Scale  
+Tera Type: Water  
+
+Lucario-Mega @ Lucarionite  
+Ability: Adaptability  
+Tera Type: Fighting  
+
+
+=== [gen9nationaldexag] Vincent (E2) ===
+
+Mawile  
+Ability: Hyper Cutter  
+Tera Type: Steel  
+
+Ampharos  
+Ability: Static  
+Tera Type: Electric  
+
+Breloom  
+Ability: Effect Spore  
+Tera Type: Grass  
+
+Scizor  
+Ability: Swarm  
+Tera Type: Bug  
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+Tera Type: Water  
+
+Entei  
+Ability: Pressure  
+Tera Type: Fire  
+
+
+=== [gen9nationaldexag] Puck (E3) ===
+
+Articuno  
+Ability: Pressure  
+Tera Type: Ice  
+
+Gengar  
+Ability: Cursed Body  
+Tera Type: Ghost  
+
+Alakazam  
+Ability: Synchronize  
+Tera Type: Psychic  
+
+Mewtwo  
+Ability: Pressure  
+Tera Type: Psychic  
+
+Suicune  
+Ability: Pressure  
+Tera Type: Water  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+Tera Type: Fire  
+
+
+=== [gen9nationaldexag] Joos (E4) ===
+
+Drapion  
+Ability: Battle Armor  
+Tera Type: Poison  
+
+Grimmsnarl (M)  
+Ability: Prankster  
+Tera Type: Dark  
+
+Incineroar  
+Ability: Blaze  
+Tera Type: Fire  
+
+Urshifu  
+Ability: Unseen Fist  
+Tera Type: Fighting  
+
+Greninja  
+Ability: Torrent  
+Tera Type: Water  
+
+Kingambit  
+Ability: Defiant  
+Tera Type: Dark  
+
+
+=== [gen9nationaldexag] Ralph (Champion) ===
+
+Garbodor  
+Ability: Stench  
+Tera Type: Poison  
+
+Venusaur  
+Ability: Overgrow  
+Tera Type: Grass  
+
+Dondozo  
+Ability: Unaware  
+Tera Type: Water  
+
+Chandelure  
+Ability: Flash Fire  
+Tera Type: Ghost  
+
+Sableye-Mega @ Sablenite  
+Ability: Magic Bounce  
+Tera Type: Dark  
+
+Dragonite  
+Ability: Inner Focus  
+Tera Type: Dragon  
