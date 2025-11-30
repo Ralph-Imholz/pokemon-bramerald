@@ -49,8 +49,42 @@ Tera Type: Fairy
 
 === [gen9nationaldexag] Vincent (Gym 4) ===
 
+Torkoal  
+Ability: White Smoke  
+Tera Type: Fire  
+
+Quilava  
+Ability: Blaze  
+Tera Type: Fire  
+
+Granbull  
+Ability: Intimidate  
+Tera Type: Fairy  
+- Fire Fang  
+
+Heatran  
+Ability: Flash Fire  
+Tera Type: Fire  
+
 
 === [gen9nationaldexag] Bob (Gym 5) ===
+
+Munchlax  
+Ability: Thick Fat  
+Tera Type: Normal  
+IVs: 0 Atk  
+
+Dolliv  
+Ability: Early Bird  
+Tera Type: Grass  
+
+Bibarel  
+Ability: Simple  
+Tera Type: Normal  
+
+Bewear  
+Ability: Fluffy  
+Tera Type: Normal  
 
 
 === [gen9nationaldexag] Pim (Gym 6) ===
